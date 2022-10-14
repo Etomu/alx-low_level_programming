@@ -13,6 +13,6 @@
 	 */
 int main(void)
 {
-printf("abcdefghijklmnopqrstuvwxyz");
+printf("abcdefghijklmnopqrstuvwxyz\n");
 return (0);
 }
