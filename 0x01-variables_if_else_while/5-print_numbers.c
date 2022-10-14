@@ -13,6 +13,6 @@
 	 */
 int main(void)
 {
-printf("abcdfghijklmnoprstuvwxyz\n");
+printf("0123456789\n");
 return (0);
 }
