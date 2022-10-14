@@ -5,9 +5,14 @@
 
 /* betty style doc for function main goes there */
 /**
-* Description: The main function is the
-* entry function
-**/
+	 * This is the preferred style for multi-line
+	 * comments in C source code.
+	 * Please use it consistently.
+	 *
+	 * Description:  The main function serves as the starting
+   * point for program execution.
+	 * with beginning and ending almost-blank lines.
+	 */
 int main(void)
 {
 int n;
