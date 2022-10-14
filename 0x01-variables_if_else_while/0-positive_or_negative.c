@@ -10,7 +10,7 @@
 	 * Please use it consistently.
 	 *
 	 * Description:  The main function serves as the starting
-   * point for program execution.
+         * point for program execution.
 	 * with beginning and ending almost-blank lines.
 	 */
 int main(void)
