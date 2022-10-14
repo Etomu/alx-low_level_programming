@@ -4,9 +4,12 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/**
+* Description: The main function is the
+* entry function
+**/
 int main(void)
 {
-/* Main is the entry function  */
 int n;
 
 srand(time(0));
