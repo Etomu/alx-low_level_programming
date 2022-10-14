@@ -5,13 +5,12 @@
 
 /* betty style doc for function main goes there */
 /**
-	 * This is the preferred style for multi-line
-	 * comments in C source code.
-	 * Please use it consistently.
-	 *
+	 * main - Entry point
+	 * 
 	 * Description:  The main function serves as the starting
 	 * point for program execution.
-	 * with beginning and ending almost-blank lines.
+	 * 
+	 * Return: Always 0 (Success)
 	 */
 int main(void)
 {
