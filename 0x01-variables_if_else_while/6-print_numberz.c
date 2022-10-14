@@ -13,6 +13,9 @@
 	 */
 int main(void)
 {
-printf("0123456789\n");
+for(int i = 0; i < 10; i++)
+{
+putchar(i+'0');
+}
 return (0);
 }
