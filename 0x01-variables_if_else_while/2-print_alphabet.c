@@ -6,11 +6,11 @@
 /**
   * main - Entry point
   *
-	* Description:  The main function serves as the starting
-	* point for program execution.
-	*
-	* Return: Always 0 (Success)
-	*/
+  * Description:  The main function serves as the starting
+  * point for program execution.
+  *
+  * Return: Always 0 (Success)
+  */
 int main(void)
 {
 printf("abcdefghijklmnopqrstuvwxyz\n");
