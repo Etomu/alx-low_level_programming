@@ -2,14 +2,13 @@
 #include "main.h"
 /**
  *
- * * main - print putchar
+ * main - print putchar
  *
- * * Return: 0 always
+ * Return: 0 always
  *
- * */
+ **/
 
 int main(void)
-
 {
 _putchar('_');
 _putchar('p');
