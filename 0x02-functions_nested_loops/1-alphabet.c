@@ -3,7 +3,7 @@
 /**
 	* print_alphabet - print lowercase alphabet using _putchar
 	*
- 	* Description: prints lowercase letters a-z
+	* Description: prints lowercase letters a-z
 	*
 	*/
 
