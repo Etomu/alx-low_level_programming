@@ -1,11 +1,11 @@
 #include <unistd.h>
 #include "main.h"
 /**
- * main - print putchar
- *
- * Return: 0 always
- *
- */
+  * main - print putchar
+  *
+  * Return: 0 always
+  *
+  */
 
 int main(void)
 {
