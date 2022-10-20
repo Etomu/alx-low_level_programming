@@ -4,7 +4,7 @@
 
 /**
  *
- * * more_numbers - prints numbers 0 to 14 ten times
+ * * print_most_numbers - prints numbers 0 to 9 without 2 and 4
  *
  * * Return: void
  *
@@ -12,54 +12,28 @@
 
 
 
-void more_numbers(void)
+void print_most_numbers(void)
 
 {
 
 		int i;
 
-			int j = 0;
-
-				int second_digit;
 
 
+			for (i = 48; i <= 57; i++)
 
-					while (j < 10)
+					{
 
-							{
+								if (i != 50 && i != 52)
 
-										i = 0;
+											{
 
-
-
-												while (i < 15)
-
-															{
-
-																			if (i < 10)
-
-																								second_digit = i;
-
-																						else
-
-																										{
-
-																															second_digit = i % 10;
-
-																																			_putchar((i / 10) + '0');
-
-																																						}
-
-																									_putchar(second_digit + '0');
-
-																												i++;
-
-																														}
-
-														j++;
-
-																_putchar('\n');
+															_putchar(i);
 
 																	}
+
+									}
+
+				_putchar('\n');
 
 }
