@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * infinite_add -  function that adds two numbers
+ * main: infinite_add -  function that adds two numbers
  *  @n1: first number
  *  @n2: second number
  *   @r: result
@@ -18,7 +18,7 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 	while (n1[i] != '\0')
 		i++;
 	while (n2[j] != '\0')
-		j++;]
+		j++;
 	if (i > j)
 		l = i;
 	else
