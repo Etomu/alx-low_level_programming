@@ -7,8 +7,7 @@ int check_seperators(char c);
  */
 
 char *cap_string(char *s)
-{	
-	int i = 0;
+{	int i = 0;
 
 	while (s[i])
 	{
@@ -39,7 +38,7 @@ int check_seperators(char c)
 
 	char seperators[13] = { ' ', '\t', '\n', ',', ';', '.', '!', '?',
 
-			       '"', '(', ')', '{', '}' };
+		'"', '(', ')', '{', '}' };
 
 	for (; i < 13; i++)
 	{
