@@ -8,8 +8,7 @@ int is_divisible(int num, int div);
  * Return: 1 if n is prime or  0 in otherwise
  */
 
-int is_prime_number(int n)
-	
+int is_prime_number(int n)	
 {
 	int div = 2;
 
