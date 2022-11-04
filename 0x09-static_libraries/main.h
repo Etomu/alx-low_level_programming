@@ -1,6 +1,15 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+<<<<<<< HEAD
+=======
+/**
+ * file: main.h
+ * Description: Header file containing the prototype
+ * of all functions included in the static library libmy.a
+ */
+
+>>>>>>> 57866fa07705eb5f51988bbc50374c733b04963c
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
@@ -22,4 +31,8 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
+<<<<<<< HEAD
 #endif
+=======
+#endif /* MAIN_H */
+>>>>>>> 57866fa07705eb5f51988bbc50374c733b04963c
